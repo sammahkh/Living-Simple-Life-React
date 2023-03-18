@@ -1,0 +1,10 @@
+img {
+    max-width: 100%;
+    display: block;
+}
+.articleImg {
+    min-height: 250px;
+    object-fit: cover; 
+    width: 189px;
+
+}

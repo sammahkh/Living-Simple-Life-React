@@ -1,0 +1,18 @@
+.navitem {
+    margin-left: 2em;
+    text-transform: uppercase;
+    font-size: .8rem;
+    letter-spacing: 3.2px;
+
+
+}
+.navitem a {
+    text-decoration: none;
+    color: #707070;
+    font-weight: 700;
+    padding: .25em 0;
+}
+.navitem a:hover,
+.navitem a:focus {
+    color: #1792d2;
+}

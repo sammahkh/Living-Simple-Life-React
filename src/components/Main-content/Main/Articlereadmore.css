@@ -1,0 +1,13 @@
+.articlereadmore{
+    font-size: .875rem;
+    color: #1792d2;
+    text-decoration: none;
+    font-weight: 700;
+    font-family:'Lora', serif;
+    letter-spacing: 2.8px;
+}
+.articlereadmore:hover,
+.articlereadmore:focus {
+    color: #143774;
+    text-decoration: underline;
+}
